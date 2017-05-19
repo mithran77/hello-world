@@ -1,19 +1,19 @@
 # hello-world
-Tutorial repo
+Tutorial repo<br>
 
-Hello world,
+Hello world,<br>
 
-Here's a few of my favourite things,
-
-Favourite colour - Purple
-Favourite Animal - Tiger
-Favourite Chocolate - KitKat
-Favourite Language - Python
-Favourite Mango - Imam pasand
-Favourite FBTeam - Real Madrid
-Favourite FB Player - Modric
-Favourite BBTeam - GSW
-Favourite BB Player - Kevin durant
-
+Here's a few of my favourite things,<br>
+<br>
+Favourite colour - Purple <br>
+Favourite Animal - Tiger<br>
+Favourite Chocolate - KitKat<br>
+Favourite Language - Python<br>
+Favourite Mango - Imam pasand<br>
+Favourite FBTeam - Real Madrid<br>
+Favourite FB Player - Modric<br>
+Favourite BBTeam - GSW<br>
+Favourite BB Player - Kevin durant<br>
+<br>
 Ok enought about me :)
 
